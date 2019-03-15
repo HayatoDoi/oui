@@ -1,5 +1,5 @@
 # oui
-When you did `go generate`, download the latest oui list from `http://standards-oui.ieee.org`.
+When you executed `go generate`, this library download the latest oui list from <http://standards-oui.ieee.org>.
 ## Usage
 
 ### downloaad library
